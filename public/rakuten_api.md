@@ -1,7 +1,9 @@
 ---
 title: rakuten_api
 tags:
-  - ''
+  - Rails
+  - 楽天API
+  - 個人開発
 private: false
 updated_at: ''
 id: null
